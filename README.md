@@ -1,8 +1,9 @@
 ### Olá, eu sou o Thayano Davalo 👋
 ##
-🔭 Hoje eu trabalho como Analista de Service Desk <br>
-🌱 Estudando Front - End<br>
-💬 Contate-me pelo e-mail: thayanodavalo@gmail.com<br>
+🔭  Hoje eu trabalho como Analista de Service Desk <br>
+🌱  Estudante de Analise e Desenvolvimento de Sistemas <br>
+🌱  Estudando Desenvolvimento Front - End @Rocketseat<br>
+💬  Contate-me pelo e-mail: thayanodavalo@gmail.com<br>
 ##
 <div align="center">
   <a href="https://github.com/thayano">
